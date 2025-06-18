@@ -1,0 +1,14 @@
+﻿<reservations>
+    <reservation>
+        <guestName>Diana Israyelyan</guestName>
+        <roomNumber>101</roomNumber>
+        <checkIn>2025-07-01</checkIn>
+        <checkOut>2025-07-05</checkOut>
+    </reservation>
+    <reservation>
+        <guestName>John Smith</guestName>
+        <roomNumber>102</roomNumber>
+        <checkIn>2025-07-03</checkIn>
+        <checkOut>2025-07-06</checkOut>
+    </reservation>
+</reservations>
